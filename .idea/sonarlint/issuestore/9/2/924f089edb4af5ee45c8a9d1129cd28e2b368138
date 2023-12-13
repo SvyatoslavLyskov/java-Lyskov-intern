@@ -1,0 +1,23 @@
+
+7
+java:S1220""Move this file to a named package.8¼ûØœÆ1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8€şØœÆ1
+G	java:S106"+Replace this use of System.out by a logger.(°‚ˆÍ8‰şØœÆ1
+L	java:S106"+Replace this use of System.out by a logger.(ÛàÆ§ÿÿÿÿÿ8ŠşØœÆ1
+L	java:S106"+Replace this use of System.out by a logger.(ˆ·„¾øÿÿÿÿ8ŠşØœÆ1
+L	java:S106"+Replace this use of System.out by a logger.(„æíÈúÿÿÿÿ8‹şØœÆ1
+L	java:S106"+Replace this use of System.out by a logger.(Î‰ú®ùÿÿÿÿ8‹şØœÆ1
+L	java:S106"+Replace this use of System.out by a logger.(ë¹­©ıÿÿÿÿ8ŒşØœÆ1
+L	java:S106!"+Replace this use of System.out by a logger.(Æ¤øëøÿÿÿÿ8ŒşØœÆ1
+L	java:S106#"+Replace this use of System.out by a logger.(µÏáŞøÿÿÿÿ8şØœÆ1
+G	java:S106&"+Replace this use of System.out by a logger.(–óÆ„8şØœÆ1
+L	java:S106)"+Replace this use of System.out by a logger.(³æâıÿÿÿÿ8şØœÆ1
+L	java:S106."+Replace this use of System.out by a logger.(Ê•©éşÿÿÿÿ8şØœÆ1
+L	java:S1062"+Replace this use of System.out by a logger.(¹ÔöØùÿÿÿÿ8şØœÆ1
+G	java:S1065"+Replace this use of System.out by a logger.( ­ö8şØœÆ1
+L	java:S106<"+Replace this use of System.out by a logger.(„½È¥ıÿÿÿÿ8şØœÆ1
+G	java:S106="+Replace this use of System.out by a logger.(ä†â¼8‘şØœÆ1
+G	java:S106>"+Replace this use of System.out by a logger.(Ü­„Á8‘şØœÆ1
+F	java:S106@"+Replace this use of System.out by a logger.(“¹ÍP8‘şØœÆ1
+L	java:S106B"+Replace this use of System.out by a logger.(Šµğ¶ùÿÿÿÿ8’şØœÆ1
